@@ -3,16 +3,19 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@material-ui/core": "^4.10.0",
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
     "@testing-library/user-event": "^7.1.2",
     "@xstate/immer": "^0.1.0",
     "@xstate/react": "^0.8.1",
     "@xstate/test": "^0.4.0",
+    "classnames": "^2.2.6",
     "lodash": "^4.17.15",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-scripts": "3.4.1",
+    "uuid-v4": "^0.1.0",
     "xstate": "^4.10.0"
   },
   "scripts": {
